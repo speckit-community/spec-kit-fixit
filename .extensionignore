@@ -1,0 +1,14 @@
+# Development files
+.github/
+.gitignore
+.vscode/
+.specify/
+specs/
+
+# Working/analysis documents
+tmp/
+
+# Build artifacts
+__pycache__/
+*.pyc
+dist/
